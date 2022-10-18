@@ -1,5 +1,3 @@
-from cProfile import label
-from cgitb import text
 import kivy
 from kivy.app import App
 from kivy.uix.label import Label
